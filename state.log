@@ -1,0 +1,40 @@
+2013-09-25 19:34:47,189 - Mock Version: 1.1.32
+2013-09-25 19:34:47,192 - Start: unpacking root cache
+2013-09-25 19:34:51,509 - Finish: unpacking root cache
+2013-09-25 19:34:51,512 - Start: cleaning yum metadata
+2013-09-25 19:34:51,524 - Finish: cleaning yum metadata
+2013-09-25 19:34:51,533 - Start: device setup
+2013-09-25 19:34:51,536 - Finish: device setup
+2013-09-25 19:34:51,536 - Start: yum update
+2013-09-25 19:34:54,120 - Start: Outputting list of available packages
+2013-09-25 19:35:00,911 - Finish: Outputting list of available packages
+2013-09-25 19:35:00,911 - Finish: yum update
+2013-09-25 19:35:01,053 - Finish: lock buildroot
+2013-09-25 19:35:01,053 - Finish: chroot init
+2013-09-25 19:35:01,193 - Start: buildsrpm
+2013-09-25 19:35:01,237 - Start: rpmbuild -bs
+2013-09-25 19:35:01,835 - Finish: rpmbuild -bs
+2013-09-25 19:35:01,890 - Finish: buildsrpm
+2013-09-25 19:35:01,891 - Finish: run
+2013-09-25 19:35:43,585 - Mock Version: 1.1.32
+2013-09-25 19:35:43,588 - Start: cleaning yum metadata
+2013-09-25 19:35:43,594 - Finish: cleaning yum metadata
+2013-09-25 19:35:43,601 - Start: device setup
+2013-09-25 19:35:43,608 - Finish: device setup
+2013-09-25 19:35:43,608 - Start: yum update
+2013-09-25 19:35:43,652 - Finish: yum update
+2013-09-25 19:35:43,777 - Finish: lock buildroot
+2013-09-25 19:35:43,777 - Finish: chroot init
+2013-09-25 19:35:43,863 - Start: build phase for ruby-1.9.3p448-2.el6.src.rpm
+2013-09-25 19:35:43,863 - Start: device setup
+2013-09-25 19:35:43,866 - Finish: device setup
+2013-09-25 19:35:43,910 - Start: build setup for ruby-1.9.3p448-2.el6.src.rpm
+2013-09-25 19:35:46,757 - Start: Outputting list of available packages
+2013-09-25 19:35:50,781 - Finish: Outputting list of available packages
+2013-09-25 19:36:47,485 - Finish: build setup for ruby-1.9.3p448-2.el6.src.rpm
+2013-09-25 19:36:47,485 - Start: rpmbuild -bb ruby-1.9.3p448-2.el6.src.rpm
+2013-09-25 19:36:47,499 - Start: Outputting list of installed packages
+2013-09-25 19:36:47,751 - Finish: Outputting list of installed packages
+2013-09-25 19:40:51,731 - Finish: rpmbuild -bb ruby-1.9.3p448-2.el6.src.rpm
+2013-09-25 19:40:51,820 - Finish: build phase for ruby-1.9.3p448-2.el6.src.rpm
+2013-09-25 19:40:51,825 - Finish: run
